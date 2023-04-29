@@ -1,0 +1,26 @@
+.button{
+    padding: 30px;
+    outline: none;
+    background: transparent;
+    border: 1px solid rgb(14, 14, 14);
+    border-bottom: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size:30px;
+    font-weight: bold;
+    scale: none;
+    color:red;
+    background-color: #fff;
+}
+.status{
+    padding: 10px;
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+}
+.game-info ul{
+    list-style: none;
+    text-decoration: none;
+}
+.game h2{
+    text-transform: capitalize;
+    font-family: 'Open Sans', sans-serif;
+}
